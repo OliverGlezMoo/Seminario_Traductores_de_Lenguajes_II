@@ -56,7 +56,7 @@ Cadena 2: a+b+c+d+e+f
 ![img1](https://user-images.githubusercontent.com/123349304/220523517-2bdfacff-61a2-4e58-99c2-ebc9309772fc.png)
 ![img2](https://user-images.githubusercontent.com/123349304/220523530-f8281162-2d78-40bd-bd0b-d8cdd24044a8.png)
 
-# Analizdor_Sintactico(Objetos)
+# Analizdor_Sintactico_Objetos
 
 ## Objetivo
 Modificar el tipo de dato de la pila de tu Analizador Sintáctico LR(1) ahora realizando una implementación usando objetos.
